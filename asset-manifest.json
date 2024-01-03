@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/codingninja_albummanager/static/css/main.e01fb182.css",
-    "main.js": "/codingninja_albummanager/static/js/main.be0f0619.js",
-    "index.html": "/codingninja_albummanager/index.html",
-    "main.e01fb182.css.map": "/codingninja_albummanager/static/css/main.e01fb182.css.map",
-    "main.be0f0619.js.map": "/codingninja_albummanager/static/js/main.be0f0619.js.map"
+    "main.css": "/codingninja-albummanager/static/css/main.e01fb182.css",
+    "main.js": "/codingninja-albummanager/static/js/main.be0f0619.js",
+    "index.html": "/codingninja-albummanager/index.html",
+    "main.e01fb182.css.map": "/codingninja-albummanager/static/css/main.e01fb182.css.map",
+    "main.be0f0619.js.map": "/codingninja-albummanager/static/js/main.be0f0619.js.map"
   },
   "entrypoints": [
     "static/css/main.e01fb182.css",
